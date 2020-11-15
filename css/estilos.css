@@ -1,10 +1,30 @@
 body {
     text-align: center;
+<<<<<<< HEAD
     font-family: cursive;
     color: rgb(46, 71, 211);
+=======
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(77, 56, 11);
+>>>>>>> cabecera
     font-size:  16px;
     margin: 0;
     padding: 0;
+}
+#cabecera
+{
+ background: steelblue;
+ color: white;
+ font-weight: bold;
+ margin: 0;
+ padding:  0.5em;
+ box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
+#cabecera #tagline
+{
+ padding: 0,0,0 1em;
+ font-weight: normal;
+ font-size: 0.8em;
 }
 #container 
 {
